@@ -6,8 +6,6 @@ color: secondary
 description: A look at building contruction in Illinois.
 ---
 
-Source: [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU)
-
 This project analyzes Illinois state-owned buildings using Python, Pandas, and Altair.
 
 ## Visualization 1: Building Size by Usage
