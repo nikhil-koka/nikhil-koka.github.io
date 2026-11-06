@@ -36,3 +36,8 @@ The interactivity for this plot I chose is a dropdownmenu that lets you filter t
 [Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv)
 
 [Analysis](https://github.com/nikhil-koka/nikhil-koka.github.io/blob/main/python_notebooks/homework_visualizations.ipynb)
+
+<script src="https://cdn.jsdelivr.net/npm/vega@6"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@6"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@7"></script>
+<script src="{{ '/assets/js/justcharts.js' | relative_url }}"></script>
